@@ -33,9 +33,6 @@
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
  </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
- </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
  </a>
@@ -137,10 +134,18 @@
 <h3 align="left">Tools</h3>
 
 <p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> 
+    </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> 
-    </a> 
+    </a>
+    <a href="https://github.com" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="80" height="80"/>
+    </a>  
 <p/>
+
+<h3 align="left">Others</h3>
 
 <p align="left">
      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -149,6 +154,12 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> 
     </a> 
+    <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="80" height="80"/> 
+    </a>
+    <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="80" height="80"/> 
+    </a>            
 </p>
 
  

@@ -77,11 +77,11 @@
 
 <p align="left">
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> 
- </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="80" height="80"/> 
+ </a>          
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> 
- </a>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="80" height="80"/> 
+ </a>              
 </p>
 
 <h3 align="left">Database</h3>
@@ -144,6 +144,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="80" height="80"/>
     </a>  
 <p/>
+          
 
 <h3 align="left">Others</h3>
 

@@ -69,7 +69,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> 
  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DofdLH9enWUHwvs3Qmpg2w.jpeg" alt="nextjs" width="80" height="80"/> 
+  <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh8vshokrazrgrnurqed8.jpg" alt="nextjs" width="80" height="80"/> 
  </a> 
 </p>
 

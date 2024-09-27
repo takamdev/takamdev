@@ -69,7 +69,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> 
  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/next-js-logo-freelogovectors.net_.png" alt="nextjs" width="80" height="80"/> 
+  <img src="https://www.felixvemmer.com/_next/image?url=%2Fposts%2Fwhy-next-js%2Ftwitter-card.png&w=828&q=75" alt="nextjs" width="80" height="80"/> 
  </a> 
 </p>
 

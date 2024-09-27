@@ -69,7 +69,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> 
  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80"/> 
+  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/next-js-logo-freelogovectors.net_.png" alt="nextjs" width="80" height="80"/> 
  </a> 
 </p>
 
@@ -80,7 +80,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="80" height="80"/> 
  </a>          
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="80" height="80"/> 
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="express" width="80" height="80"/> 
  </a>              
 </p>
 

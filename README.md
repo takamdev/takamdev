@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Takam loic junio</h1>
+<h1 align="center">Hi 👋, I'm Takam loic junior</h1>
 <h3 align="center">A passionate full-stack developer from Cameroon</h3>
 
 - 🔭 I’m currently working on [e-commerce site (jahair-style)](https://jahair-style.vercel.app/)

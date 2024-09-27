@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://twitter.com/takamloicjunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takamloicjunior"width="80" height="80" /></a>
-<a  style="margin-left: 20px;" href="https://linkedin.com/in/loic-junior-takam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loic-junior-takam" width="80" height="80"/></a>
+&nbsp;<a  href="https://linkedin.com/in/loic-junior-takam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loic-junior-takam" width="80" height="80"/></a>
 
 
 <h3 align="left">Languages</h3>
